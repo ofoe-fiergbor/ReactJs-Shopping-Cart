@@ -1,0 +1,66 @@
+.btn-custom{
+    color: #fff;
+    background-color: black;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    margin: none;
+}
+.top-row{
+    padding-bottom: 1rem;
+    padding-top:0.5rem;
+}
+.thumbnail-custom{
+    padding: 0px;
+    border: none;
+    size: 40%;
+    position: relative;
+}
+span{
+    font-size: 10px;
+    color: grey;
+}
+.dash{
+    background-color: orange;
+    height: 2px;
+    width: 27%;
+    margin-bottom: 1rem;
+}
+.thumbnail-custom .text{
+    position: absolute;
+    z-index: 999;
+    margin: none;
+    left: 60%;
+    right: 0;
+    top:0px; /* Adjust this value to move the positioned div up and down */
+    width: 100%; /* Set the width of the positioned div */
+    font-size: 70%;
+    background-color: black;
+    color:rgb(218, 211, 211);
+    height:15px;
+    width:6.5rem;
+    border-radius:15%;
+}
+
+.sizes{
+    font-size:70%;
+    background-color:rgb(223, 223, 223);
+    border-radius:50%;
+    width: 31px;
+    padding-top: 5px;
+    margin: 5px;
+    padding-left:1px;
+    padding-right:1px;
+
+}
+.sizes p {
+   font-weight: bold;
+   margin-top: 2px;
+}
+.star-btn{
+    font-size:70%;
+    color: black;
+}
+.glyph{
+    color:black;
+}
