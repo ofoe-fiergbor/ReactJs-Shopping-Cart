@@ -1,9 +1,12 @@
 import React from 'react';
+import Sizes from './Sizes';
+import ShareGitHub from './ShareGitHub'
 
 const SideBar =()=>{
     return (
         <div>
-            <p>This is SideBar component</p>
+            <Sizes/>
+            <ShareGitHub/>
         </div>
     )
 }
