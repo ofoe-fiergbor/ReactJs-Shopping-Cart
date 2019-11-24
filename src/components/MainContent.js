@@ -17,7 +17,6 @@ import shirt11 from '../images/shirt11.jpg'
 import shirt12 from '../images/shirt12.jpg'
 
 
-
 const MainContent =()=>{
     return (
         <div>
