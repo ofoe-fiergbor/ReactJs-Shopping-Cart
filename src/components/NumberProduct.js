@@ -3,7 +3,7 @@ import React from 'react';
 const NumberProduct =()=>{
     return (
         <div>
-            <p>This is NumberProduct component</p>
+            <span><p>16 Matche(s) found</p></span>
         </div>
     )
 }
